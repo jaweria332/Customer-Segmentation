@@ -26,9 +26,9 @@ Dataset ***OnlineRetail.csv*** contains all the transactions occuring between 01
 K-Means is one of the simplest and useful Unsupervised Machine Learning Algorithm. To find the optimal number of clusters for K-Means Clustering, I have used ***Elbow Method*** whose plot is shown below:
 
 
-
+<p class="aligncenter">
 <img src="elbow_method.png" height=200 width=300>
-
+</p>
 
 
 
