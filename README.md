@@ -14,4 +14,4 @@ Dataset ***OnlineRetail.csv*** contains all the transactions occuring between 01
 
 
 ### Dataset Description
-<img src="dataset.PNG">
+<img src="dataset.PNG" height=200 width=200>
