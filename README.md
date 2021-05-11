@@ -14,4 +14,44 @@ Dataset ***OnlineRetail.csv*** contains all the transactions occuring between 01
 
 
 ### Dataset Description
-<img src="">
+<img src="dataset.PNG" height=200 width=300>
+
+
+### Outlier Analysis Insights is shown below:
+<img src="Outlier_Analysis.png" height=200 width=300 align='center'>
+
+
+
+### In the customer segmentation, I have used the K-Means CLustering Algorithm
+K-Means is one of the simplest and useful Unsupervised Machine Learning Algorithm. To find the optimal number of clusters for K-Means Clustering, I have used ***Elbow Method*** whose plot is shown below:
+
+
+
+<img src="elbow_method.png" height=200 width=300>
+
+
+
+
+
+## After performing all the necessary processing and implementing model, we have got different insights that shows relation between cluster and attributes:
+
+
+
+***1. Cluster ID VS Amount***
+
+<img src="Amount_BP.png" height=200 width=300>
+
+
+
+
+
+***1. Cluster ID VS Frequency***
+
+<img src="Freq_BP.png" height=200 width=300>
+
+
+
+
+***1. Cluster ID VS Recency***
+
+<img src="Recency_BP.png" height=200 width=300>
