@@ -23,7 +23,7 @@ Dataset ***OnlineRetail.csv*** contains all the transactions occuring between 01
 
 
 ### In the customer segmentation, I have used the K-Means CLustering Algorithm
-K-Means is one of the simplest and useful Unsupervised Machine Learning Algorithm. To find the optimal number of clusters for K-Means Clustering, I have used ***Elbow Method*** whose plot is shown below:
+K-Means is one of the simplest and useful Unsupervised Machine Learning Algorithm. To find the optimal number of clusters, I have used ***Elbow Method***. Elbow method plot is shown below:
 
 
 
